@@ -1,0 +1,9 @@
+.main-content {
+  flex: 1;
+  margin-left: var(--sidebar-width);
+}
+
+.chat-content{
+    margin: 0;
+    padding: 10%;
+}
